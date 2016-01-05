@@ -1,4 +1,4 @@
-This was a 'weekend challenge' I completed while at Makers Academy. The spec I was given is shown below. I built it using RSpec and Sinatra.  Extending the game with the Lizard & Spock variation was fun!  
+This was a 'weekend challenge' I completed while at Makers Academy. The spec I was given is shown below. I built it using RSpec and Sinatra and deployed it to Heroku.  Extending the game with the Lizard & Spock variation was fun!  
 
 As you can see, I was provided with User Stories and I built it up from there, initially sketching out the nouns and verbs from the User Stories and using those to guide my class names, class responsibilities and method names.  
 
@@ -10,6 +10,8 @@ To run:
 
 To run the tests:  
 `rspec`  
+
+To play online, go [here](https://rockpaperscissors-ruby.herokuapp.com/).
 
 # RPS Challenge
 
