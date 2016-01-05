@@ -1,6 +1,15 @@
 This was a 'weekend challenge' I completed while at Makers Academy. The spec I was given is shown below. I built it using RSpec and Sinatra.  Extending the game with the Lizard & Spock variation was fun!  
 
-As you can see, I was provided with User Stories and I built it up from there, initially sketching out the nouns and verbs from the User Stories and using those to guide my class names, class responsibilities and method names.
+As you can see, I was provided with User Stories and I built it up from there, initially sketching out the nouns and verbs from the User Stories and using those to guide my class names, class responsibilities and method names.  
+
+To run:  
+`git clone git@github.com:Yorkshireman/rps-challenge.git`  
+`bundle install`  
+`rackup`  
+- navigate to [http://localhost:9292](http://localhost:9292) in your browser  
+
+To run the tests:  
+`rspec`  
 
 # RPS Challenge
 
