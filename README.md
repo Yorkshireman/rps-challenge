@@ -1,4 +1,6 @@
-# RPS Challenge: Rōnin Badge Test
+This was a 'weekend challenge' I completed while at Makers Academy. The spec I was given is shown below. I built it using RSpec and Sinatra.  Extending the game with the Lizard & Spock variation was fun!
+
+# RPS Challenge
 
 Instructions
 -------
@@ -8,9 +10,7 @@ Instructions
 
 Task 
 ----
-
-Knowing how to build web applications is getting us almost there as web developers!
-
+  
 The Makers Academy Marketing Array ( **MAMA** ) have asked us to provide a game for them. Their daily grind is pretty tough and they need time to steam a little.
 
 Your task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
@@ -39,8 +39,6 @@ As usual please start by
 * Filling out your learning plan self review for the week: https://github.com/makersacademy/learning_plan (if you haven't already)
 * Forking this repo
 * TEST driving development of your app
-
-**Rōnin BANZAI!!!!**
 
 ## Bonus level 1: Multiplayer
 
